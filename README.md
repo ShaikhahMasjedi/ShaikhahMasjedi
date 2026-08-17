@@ -45,12 +45,3 @@ Passionate and versatile **Software Engineer** and Information Technology gradua
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ShaikhahMasjedi&show_icons=true&theme=radial" alt="Shaikhah's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ShaikhahMasjedi&layout=compact&theme=radial" alt="Top Languages" width="48%" />
 </p>
-
----
-
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ShaikhahMasjedi)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/ShaikhahMasjedi)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ShaikhahMasjedi)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhahsami1@gmail.com)
