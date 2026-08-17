@@ -42,6 +42,6 @@ Passionate and versatile **Software Engineer** and Information Technology gradua
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ShaikhahMasjedi&show_icons=true&theme=radial" alt="Shaikhah's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ShaikhahMasjedi&layout=compact&theme=radial" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ShaikhahMasjedi&show_icons=true&theme=radial&count_private=true" alt="Shaikhah's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ShaikhahMasjedi&layout=compact&theme=radial&count_private=true" alt="Top Languages" width="48%" />
 </p>
