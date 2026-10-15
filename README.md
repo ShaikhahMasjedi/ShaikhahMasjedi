@@ -1,47 +1,59 @@
-# Hi there! I'm Shaikhah Sami Masjedi 👋
+<h1 align="center"> I'm Shaikhah Masjedi 👋</h1>
 
-Passionate and versatile **Software Engineer** and Information Technology graduate, driven by continuous learning, deep technical curiosity, and building robust, scalable solutions.
+I'm a Software Developer and Information Technology graduate who builds mobile apps with **Flutter** and web backends with **ASP.NET Core & SQL Server**.
+I enjoy turning real-world problems into clean, usable products, from designing the UI to connecting it to APIs and databases.
 
----
+</br>
 
-### 🛠️ Tech Stack & Skills
 
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🛠️ Tech Stack
 
-**Frameworks & Web Development:**
-![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-**Databases & Systems:**
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Linux OS](https://img.shields.io/badge/Linux%20(Ubuntu/Kali)-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 🎯 Areas of Expertise & Interest
-- 🌐 **Backend Engineering:** ASP.NET Core MVC, Laravel (PHP), Web APIs & Relational Database Design
-- 💻 **Frontend & UI/UX:** Responsive interfaces using Angular, React, and Figma design workflow
-- 🔒 **Cyber Security & Systems:** Linux environments (Ubuntu, Kali Linux), Virtual Systems, and security fundamentals
-- 🎮 **Explorations:** Data Analysis, Game Development, and Software Architecture
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=ShaikhahMasjedi&show_icons=true&theme=radial&count_private=true" alt="Shaikhah's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=ShaikhahMasjedi&layout=compact&theme=radial&count_private=true" alt="Top Languages" width="48%" />
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,php,laravel,html,css,figma,git,github,visualstudio&perline=12" alt="Core skills" />
 </p>
+
+<p><sub><b>Currently learning</b></sub></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,angular,py&perline=4" alt="Learning" />
+</p>
+</br>
+
+
+## 🎯 What I Do
+
+- 📱 **Mobile Development:** Flutter apps with Riverpod state management and REST API integration (Dio, http)
+- 🎨 **UI/UX Design:** Designing app interfaces in Figma and implementing them in code
+- 🌐 **Backend Development:** ASP.NET Core Web APIs, ASP.NET Core MVC, and Laravel
+- 🗄️ **Databases:** Relational database design with SQL Server
+
+</br>
+
+
+## 🚀 Featured Projects
+
+### 🕋 [Yusr (يسر)](https://github.com/ShaikhahMasjedi/yusrHajjMVC)
+A smart companion app that helps pilgrims perform Hajj.
+- 🔢 Automatic Tawaf / Sa'i round counter
+- 🤖 Trusted AI Mufti chat and guidance for the different types of Hajj
+- 🗺️ Map that guides lost pilgrims back to their group's location (hotel or tent)
+- 📡 "Be a Leader" mode using GPS + Bluetooth to track distance and speed, helping supervisors keep pilgrims close
+- **My role:** Mobile app and UI development with the team, and co-developed the backend API
+- **Stack:** Flutter · ASP.NET Core Web API · ASP.NET MVC · SQL Server
+- 📥 [Download Android APK]([(https://yusrwebsite.runasp.net/)])
+
+### 🌱 [TerraMatch](https://github.com/ShaikhahMasjedi/TerraMatch)
+An AI-powered agriculture app built by a team at the **ITU AI Readiness Hackathon 2026**. It helps farmers make better decisions about soil and crops.
+- 📷 Soil photo analysis that detects problems and suggests treatments
+- 🌾 Crop recommendations based on soil values entered by the user
+- 🤖 AI chatbot for agricultural questions and regulations
+- **My role:** Mobile app development, UI/UX design, and API integration
+- **Stack:** Flutter · Dart · Riverpod · Dio
+
+### 🔍 [TechFinder](https://github.com/ShaikhahMasjedi/TechFinder)
+An e-commerce website for electronics such as headphones and keyboards. University team project with equal roles for all members.
+- **Stack:** ASP.NET Core MVC · SQL Server · HTML · CSS
+
+### 📦 [Stock-Management](https://github.com/ShaikhahMasjedi/Stock-Management)
+A desktop inventory system for managing warehouses, products, categories, and brands. University project.
+- **Stack:** C# · SQL Server
+- 🔄 *Currently rebuilding it as a web app with React + Laravel as a learning project.*
