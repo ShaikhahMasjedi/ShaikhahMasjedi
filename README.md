@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Shaikhah Masjedi 👋</h1>
+<h1 > I'm Shaikhah Masjedi 👋</h1>
 
 I'm a Software Developer and Information Technology graduate who builds mobile apps with **Flutter** and web backends with **ASP.NET Core & SQL Server**.
 I enjoy turning real-world problems into clean, usable products, from designing the UI to connecting it to APIs and databases.
@@ -12,10 +12,6 @@ I enjoy turning real-world problems into clean, usable products, from designing 
   <img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,php,laravel,html,css,figma,git,github,visualstudio&perline=12" alt="Core skills" />
 </p>
 
-<p><sub><b>Currently learning</b></sub></p>
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,angular,py&perline=4" alt="Learning" />
-</p>
 </br>
 
 
@@ -41,7 +37,7 @@ A smart companion app that helps pilgrims perform Hajj.
 - **Stack:** Flutter · ASP.NET Core Web API · ASP.NET MVC · SQL Server
 - 📥 [Download Android APK]([(https://yusrwebsite.runasp.net/)])
 
-### 🌱 [TerraMatch](https://github.com/ShaikhahMasjedi/TerraMatch)
+### 🌱 [TerraMatch]((https://github.com/Remas-H-Aldossary/TerraMatch-ITU-Hackathon))
 An AI-powered agriculture app built by a team at the **ITU AI Readiness Hackathon 2026**. It helps farmers make better decisions about soil and crops.
 - 📷 Soil photo analysis that detects problems and suggests treatments
 - 🌾 Crop recommendations based on soil values entered by the user
