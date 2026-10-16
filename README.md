@@ -33,16 +33,14 @@ A smart companion app that helps pilgrims perform Hajj.
 - 🤖 Trusted AI Mufti chat and guidance for the different types of Hajj
 - 🗺️ Map that guides lost pilgrims back to their group's location (hotel or tent)
 - 📡 "Be a Leader" mode using GPS + Bluetooth to track distance and speed, helping supervisors keep pilgrims close
-- **My role:** Mobile app and UI development with the team, and co-developed the backend API
 - **Stack:** Flutter · ASP.NET Core Web API · ASP.NET MVC · SQL Server
-- 📥 [Download Android APK]([(https://yusrwebsite.runasp.net/)])
+- 📥 [Download Android APK](https://yusrwebsite.runasp.net/)
 
 ### 🌱 [TerraMatch](https://github.com/Remas-H-Aldossary/TerraMatch-ITU-Hackathon)
 An AI-powered agriculture app built by a team at the **ITU AI Readiness Hackathon 2026**. It helps farmers make better decisions about soil and crops.
 - 📷 Soil photo analysis that detects problems and suggests treatments
 - 🌾 Crop recommendations based on soil values entered by the user
 - 🤖 AI chatbot for agricultural questions and regulations
-- **My role:** Mobile app development, UI/UX design, and API integration
 - **Stack:** Flutter · Dart · Riverpod · Dio
 
 ### 🔍 [TechFinder](https://github.com/ShaikhahMasjedi/TechFinder)
