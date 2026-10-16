@@ -37,7 +37,7 @@ A smart companion app that helps pilgrims perform Hajj.
 - **Stack:** Flutter · ASP.NET Core Web API · ASP.NET MVC · SQL Server
 - 📥 [Download Android APK]([(https://yusrwebsite.runasp.net/)])
 
-### 🌱 [TerraMatch]((https://github.com/Remas-H-Aldossary/TerraMatch-ITU-Hackathon))
+### 🌱 [TerraMatch](https://github.com/Remas-H-Aldossary/TerraMatch-ITU-Hackathon)
 An AI-powered agriculture app built by a team at the **ITU AI Readiness Hackathon 2026**. It helps farmers make better decisions about soil and crops.
 - 📷 Soil photo analysis that detects problems and suggests treatments
 - 🌾 Crop recommendations based on soil values entered by the user
