@@ -50,4 +50,3 @@ An e-commerce website for electronics such as headphones and keyboards. Universi
 ### 📦 [Stock-Management](https://github.com/ShaikhahMasjedi/Stock-Management)
 A desktop inventory system for managing warehouses, products, categories, and brands. University project.
 - **Stack:** C# · SQL Server
-- 🔄 *Currently rebuilding it as a web app with React + Laravel as a learning project.*
