@@ -9,7 +9,7 @@ I enjoy turning real-world problems into clean, usable products, from designing 
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,php,laravel,html,css,figma,git,github,visualstudio&perline=12" alt="Core skills" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cs,dotnet,html,css,figma,git,github,visualstudio&perline=12" alt="Core skills" />
 </p>
 
 </br>
