@@ -1,4 +1,4 @@
-<h1 > I'm Shaikhah Masjedi 👋</h1>
+<h1 > I'm Shaikhah Masjedi </h1>
 
 I'm a Software Developer and Information Technology graduate who builds mobile apps with **Flutter** and web backends with **ASP.NET Core & SQL Server**.
 I enjoy turning real-world problems into clean, usable products, from designing the UI to connecting it to APIs and databases.
